@@ -1,0 +1,30 @@
+<svg width="215" height="272" viewBox="0 0 215 272" fill="none" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <mask id="mask">
+    <path d="M-5.69589e-06 104L101 0" transform="translate(100 30) rotate(-12)" stroke="white" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M0 115L128 0" transform="translate(55 31) rotate(-12)" stroke="white" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M20 0L0 20" transform="translate(94 150) rotate(-12)" stroke="white" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M0 12L12 0" transform="translate(74 191) rotate(-12)" stroke="white" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M0 5L5 0" transform="translate(61 221) rotate(-12)" stroke="white" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M7.27064e-06 12L10 0" transform="translate(89 228) rotate(-12)" stroke="white" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M0 6L7.00003 -1.23743e-05" transform="translate(32 203) rotate(-12)" stroke="white" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M0 66.0001L57.0001 0" transform="translate(116 108) rotate(-12)" stroke="white" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M5.24301e-05 148L102 0" transform="translate(108 70) rotate(-12)" stroke="white" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M0 49L43 0" transform="translate(167 32) rotate(-12)" stroke="white" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M-5.08849e-05 17L15 0" transform="translate(105 193) rotate(-12)" stroke="white" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M12 0L0 18" transform="translate(119 234) rotate(-12)" stroke="white" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M133 0C132.917 0.391621 44.2988 66.1632 0 99" transform="translate(26 45) rotate(-12)" stroke="white" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M0 18L24 0" transform="translate(8 163) rotate(-12)" stroke="white" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M26 0L0 24" transform="translate(44 163) rotate(-12)" stroke="white" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+  </mask>
+</defs>
+<style>
+  @keyframes a0_t { from {
+    r: 0; } to {
+    transform: 300; }
+  }
+</style>
+<g mask="url(#mask)">
+  <circle style="animation: a0_t 0.35s ease-in both" cx="215" cy="0" r="300" fill="white" />
+</g>
+</svg>

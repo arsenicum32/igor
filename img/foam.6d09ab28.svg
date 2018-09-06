@@ -1,0 +1,86 @@
+<svg width="238" height="251" viewBox="0 0 238 251" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+  <mask id="mask">
+    <path d="M86 65.8659C62.9331 73.7896 41.3705 70.323 21.3123 55.466C1.25411 40.609 -1.7546 16.3427 0.752649 0" transform="translate(34 178) rotate(-12)" stroke="white" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M0 106L99 0" transform="translate(137 24) rotate(-12)" stroke="white" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M0 4C0 4 2.4379 1.5621 4 0" transform="translate(144 121) rotate(-12)" stroke="white" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M0 60C0 60 54.4379 1.5621 56 0" transform="translate(146 44) rotate(-12)" stroke="white" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M0 60C0 60 54.4379 1.5621 56 0" transform="translate(108 80) rotate(-12)" stroke="white" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M0 80C0 80 73.4379 1.5621 75 0" transform="translate(99 41) rotate(-12)" stroke="white" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M41.3243 0.584406C49.3597 -0.863431 66.9214 -0.747787 79.7733 14.6143C87.4075 25.2137 97.5851 50.636 76.1761 77.596C64.7535 91.9803 44.3116 95.1565 31.3666 93.6659C18.4217 92.1754 5.34154 82.0312 0 74.6149" transform="translate(100 161) rotate(-12)" stroke="white" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M29.1758 2.1985C46.0434 -1.48336 66.9214 -2.12963 79.7733 13.1322C87.4075 23.6625 97.5851 48.9189 76.1761 75.703C64.7535 89.9935 44.3116 93.1489 31.3666 91.6681C18.4217 90.1873 5.34154 80.1093 0 72.7414" transform="translate(73 194) rotate(-157)" stroke="white" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M4 8C6.20914 8 8 6.20914 8 4C8 1.79086 6.20914 0 4 0C1.79086 0 0 1.79086 0 4C0 6.20914 1.79086 8 4 8Z" transform="translate(72 140) rotate(-12)" fill="white"/>
+  </mask>
+</defs>
+<style>
+  @keyframes scale { 0% {
+    transform: scale(0,0);
+  } 80% {
+    transform: translate(-80,-80) scale(0,0);
+  } 100% {
+    transform: translate(0,0) scale(1,1);
+  } }
+  @keyframes scale1 { 0% {
+    transform: scale(0,0);
+  } 70% {
+    transform: translate(-80,-80) scale(0,0);
+  } 100% {
+    transform: translate(0,0) scale(1,1);
+  } }
+  @keyframes scale2 { 0% {
+    transform: scale(0,0);
+  } 80% {
+    transform: translate(-80,-80) scale(0,0);
+  } 90% {
+    transform: translate(0,0) scale(1,1);
+  } }
+  @keyframes scale3 { 0% {
+    transform: scale(0,0);
+  } 60% {
+    transform: translate(-80,-80) scale(0,0);
+  } 80% {
+    transform: translate(0,0) scale(1,1);
+  } }
+  @keyframes scale4 { 0% {
+    transform: scale(0,0);
+  } 65% {
+    transform: translate(-80,-80) scale(0,0);
+  } 95% {
+    transform: translate(0,0) scale(1,1);
+  } }
+  @keyframes circle1 {
+    from {
+      r:0;
+    } to {
+      r: 160;
+    }
+  }
+  @keyframes circle2 {
+    50% {
+      r:0;
+    } 80% {
+      r: 240;
+    } 100% {
+      r: 250;
+    }
+  }
+</style>
+<g fill="none" mask="url(#mask)">
+  <circle style="animation: circle1 0.4s linear both" cx="238" cy="0" r="200" fill="white" />
+  <circle style="animation: circle2 0.6s linear both" cx="0" cy="251" r="0" fill="white" />
+</g>
+<g style="animation: scale 0.6s linear both, a0_o 0.6s linear both;" >
+  <path fill-rule="evenodd" clip-rule="evenodd" d="M14 28C21.732 28 28 21.732 28 14C28 6.26801 21.732 0 14 0C6.26801 0 0 6.26801 0 14C0 21.732 6.26801 28 14 28Z" transform="translate(143 188) rotate(-12)" stroke="white" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<g style="animation: scale1 0.6s linear both, a0_o 0.6s linear both;">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M13.5 27C20.9558 27 27 20.9558 27 13.5C27 6.04416 20.9558 0 13.5 0C6.04416 0 0 6.04416 0 13.5C0 20.9558 6.04416 27 13.5 27Z" transform="translate(11 148) rotate(-12)" stroke="white" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M0 5C1.69092 3.30885 3.36396 1.63578 5 0L0 5Z" transform="translate(172 45) rotate(-12)" stroke="white" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+
+<g style="animation: scale2 0.6s linear both, a0_o 0.6s linear both;">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M7 14C10.866 14 14 10.866 14 7C14 3.13401 10.866 0 7 0C3.13401 0 0 3.13401 0 7C0 10.866 3.13401 14 7 14Z" transform="translate(126 194) rotate(-12)" stroke="white" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<g style="animation: scale3 0.6s linear both, a0_o 0.6s linear both;">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M7 14C10.866 14 14 10.866 14 7C14 3.13401 10.866 0 7 0C3.13401 0 0 3.13401 0 7C0 10.866 3.13401 14 7 14Z" transform="translate(60 113) rotate(-12)" stroke="white" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+</svg>

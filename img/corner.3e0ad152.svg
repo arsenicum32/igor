@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="508px" height="491px" viewBox="0 0 508 491" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>Path 3</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="77.8726399%" y1="0%" x2="-9.7617152%" y2="75.8035495%" id="linearGradient-1">
+            <stop stop-color="#FFFFFF" stop-opacity="0.319151947" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="1920-copy" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="4-copy" fill="url(#linearGradient-1)">
+            <g id="Group-9" transform="translate(-578.000000, -284.000000)">
+                <g id="Group-12" transform="translate(243.000000, 0.000000)">
+                    <polygon id="Path-3" points="37 0 1136 0 0 1099"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

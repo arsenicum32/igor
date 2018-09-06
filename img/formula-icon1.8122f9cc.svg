@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="121" height="122" viewBox="0 0 121 122">
+    <style>
+@keyframes a0_t { 0% { transform: translate(60.412px,60.964px) scale(0.5,0.5); } 50% { transform: translate(60.412px,60.964px) scale(1,1); } 100% { transform: translate(60.412px,60.964px) scale(1,1); } }
+@keyframes a0_o { 0% { opacity: 0; } 16.6667% { opacity: 1; } 100% { opacity: 1; } }
+@keyframes a1_do { 0% { stroke-dashoffset: 380px; } 33.3333% { stroke-dashoffset: 380px; } 83.3333% { stroke-dashoffset: 0px; } 100% { stroke-dashoffset: 0px; } }
+@keyframes a2_do { 0% { stroke-dashoffset: 20px; } 50% { stroke-dashoffset: 20px; } 100% { stroke-dashoffset: 0px; } }
+@keyframes a3_do { 0% { stroke-dashoffset: 36px; } 50% { stroke-dashoffset: 36px; } 100% { stroke-dashoffset: 0px; } }
+@keyframes a4_do { 0% { stroke-dashoffset: 88px; } 50% { stroke-dashoffset: 88px; } 100% { stroke-dashoffset: 0px; } }
+@keyframes a5_do { 0% { stroke-dashoffset: 77px; } 50% { stroke-dashoffset: 77px; } 100% { stroke-dashoffset: 0px; } }
+@keyframes a6_do { 0% { stroke-dashoffset: 101px; } 50% { stroke-dashoffset: 101px; } 100% { stroke-dashoffset: 0px; } }
+    </style>
+    <ellipse fill="rgba(255,255,255,0.2)" opacity="0" rx="60.444" ry="60.444" transform="translate(60.412,60.964) scale(0.5,0.5)" style="animation: a0_t 0.6s linear both, a0_o 0.6s linear both;"/>
+    <path d="M62.582,13.206C49.983,13.206,40.33,9.581,32.167,1.589C24.006,9.581,14.355,13.206,1.756,13.206C1.756,34.019,-2.521,63.834,32.167,75.942C66.858,63.834,62.582,34.019,62.582,13.206Z" fill="none" stroke="#ffffff" stroke-width="3.178" stroke-dasharray="380,380" stroke-dashoffset="380" fill-rule="evenodd" clip-rule="evenodd" stroke-linecap="round" stroke-linejoin="round" transform="translate(29.2032,24.5991)" style="animation: a1_do 0.6s linear both;"/>
+    <path d="M37.532,61.459L44.428,54.515L37.532,61.459Z" stroke="white" stroke-dasharray="20 20" stroke-dashoffset="20" stroke-width="3.18px" clip-rule="evenodd" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round" transform="translate(0.813593,0.470086)" style="animation: a2_do 0.6s linear both;"/>
+    <path d="M48.805,50.107L61.404,37.42L48.805,50.107Z" stroke="white" stroke-dasharray="36 36" stroke-dashoffset="36" stroke-width="3.18px" clip-rule="evenodd" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round" transform="translate(0.813593,0.470086)" style="animation: a3_do 0.6s linear both;"/>
+    <path d="M41.345,72.243L72.18,41.193L41.345,72.243Z" stroke="white" stroke-dasharray="88 88" stroke-dashoffset="88" stroke-width="3.18px" clip-rule="evenodd" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round" transform="translate(0.813593,0.470086)" style="animation: a4_do 0.6s linear both;"/>
+    <path d="M56.762,88.369L83.585,61.359L56.762,88.369Z" stroke="white" stroke-dasharray="77 77" stroke-dashoffset="77" stroke-width="3.18px" clip-rule="evenodd" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round" transform="translate(0.813593,0.470086)" style="animation: a5_do 0.6s linear both;"/>
+    <path d="M47.744,81.625L83.022,46.101L47.744,81.625Z" stroke="white" stroke-dasharray="101 101" stroke-dashoffset="101" stroke-width="3.18px" clip-rule="evenodd" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round" transform="translate(0.813593,0.470086)" style="animation: a6_do 0.6s linear both;"/>
+</svg>

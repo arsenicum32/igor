@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="122px" height="122px" viewBox="0 0 122 122" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 2</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="1920-copy" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Custom-Preset-10-Copy" transform="translate(-684.000000, -418.000000)">
+            <g id="Group-2" transform="translate(684.200406, 418.520625)">
+                <circle id="Oval-2" fill="#FFFFFF" opacity="0.202162591" cx="60.74" cy="60.444" r="60.444"></circle>
+                <g id="Group-11" transform="translate(12.716000, 28.980000)">
+                    <polyline id="Stroke-1" stroke="#FFFFFF" stroke-width="3.37824" stroke-linecap="round" stroke-linejoin="round" points="74.52 32.292 53.7169969 32.5044474 63.0887089 23.3365263"></polyline>
+                    <path d="M53.7169969,32.5044474 L63.0887089,41.6723684" id="Stroke-3" stroke="#FFFFFF" stroke-width="3.37824" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <polyline id="Stroke-1" stroke="#FFFFFF" stroke-width="3.37824" stroke-linecap="round" stroke-linejoin="round" points="87.3487595 54.1740789 67.1355845 54.1740789 76.5072964 45.0061579"></polyline>
+                    <path d="M67.1355845,54.1740789 L76.5072964,63.342" id="Stroke-3" stroke="#FFFFFF" stroke-width="3.37824" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <polyline id="Stroke-1" stroke="#FFFFFF" stroke-width="3.37824" stroke-linecap="round" stroke-linejoin="round" points="86.5207595 9.16792105 67.1355845 9.16792105 76.5072964 0"></polyline>
+                    <path d="M67.1355845,9.16792105 L76.5072964,18.3358421" id="Stroke-3" stroke="#FFFFFF" stroke-width="3.37824" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <ellipse id="Oval" stroke="#FFFFFF" stroke-width="3.37824" stroke-linecap="round" stroke-linejoin="round" cx="12.5372789" cy="44.7822172" rx="7.56927892" ry="7.52221718"></ellipse>
+                    <ellipse id="Oval-Copy-2" stroke="#FFFFFF" stroke-width="3.37824" stroke-linecap="round" stroke-linejoin="round" cx="37.7824243" cy="9.16792105" rx="5.87063204" ry="5.83413158"></ellipse>
+                    <ellipse id="Oval-Copy-3" stroke="#FFFFFF" stroke-width="3.37824" stroke-linecap="round" stroke-linejoin="round" cx="37.7824243" cy="55.8409737" rx="5.87063204" ry="5.83413158"></ellipse>
+                    <g id="Page-1" transform="translate(0.063970, 3.453632)" fill="#FFFFFF">
+                        <path d="M25.3761217,19.748809 C24.062745,24.6014178 25.182281,29.9553291 28.5168358,33.6879367 C31.8772124,37.4500757 36.9779104,38.8694 41.7712224,37.9455449 C44.4315795,37.4329403 43.304969,33.2486134 40.6513326,33.7601243 C33.3904431,35.1593965 27.4917441,28.090119 29.4372253,20.9027164 C30.1669576,18.2073492 26.1047928,17.0574523 25.3761217,19.748809" id="Fill-1"></path>
+                        <path d="M4.10258485,3.71728882 C2.78920817,8.56989756 3.90874417,13.9238089 7.24329895,17.6564165 C10.6036756,21.4185555 15.7043735,22.8378797 20.4976855,21.9140247 C23.1580426,21.4014201 22.0314321,17.2170932 19.3777958,17.7286041 C12.1169062,19.1278763 6.21820722,12.0585988 8.16368842,4.87119616 C8.89342073,2.17582903 4.83125599,1.02593212 4.10258485,3.71728882" id="Fill-1-Copy" transform="translate(12.791742, 12.185848) rotate(-105.000000) translate(-12.791742, -12.185848) "></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

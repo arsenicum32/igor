@@ -1,0 +1,39 @@
+<svg width="434" height="334" viewBox="0 0 434 334" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0)">
+</g>
+<defs>
+  <mask id="blue">
+    <path d="M0 0V276" transform="translate(279.839 60) scale(-1 1) rotate(33)" stroke="white" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M0 0L72 267" transform="translate(280 61) scale(-1 1) rotate(33)" stroke="white" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M0 138L239 0" transform="translate(204 -55) scale(-1 1) rotate(33)" stroke="white" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M0 195L195 0" transform="translate(173 -103) scale(-1 1) rotate(33)" stroke="white" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+  </mask>
+  <mask id="common">
+    <path d="M0 0L3.24522 5.60816" transform="translate(279.97 61.4784) scale(-1 1) rotate(33)" stroke="white" stroke-width="6.072" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M0 0L7.4394 12.399" transform="translate(280.072 75.0563) scale(-1 1) rotate(33)" stroke="white" stroke-width="6.072" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0 18.91 12.6 0"/>
+    <path d="M0.576497 0.0142664L134 233.173" transform="translate(280 62) scale(-1 1) rotate(33)" stroke="white" stroke-width="7" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="1.42 0.92"/>
+    <path d="M0 0L4.9596 4.9596" transform="translate(280.009 61.2991) scale(-1 1) rotate(33)" stroke="white" stroke-width="6.072" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M0 0L10.7458 10.7458" transform="translate(277.092 75.0204) scale(-1 1) rotate(33)" stroke="white" stroke-width="6.072" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0 18.91 12.6 0"/>
+    <path d="M0 0L191 191" transform="translate(280 61) scale(-1 1) rotate(33)" stroke="white" stroke-width="7" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="26.26 15.76 0 18.91 12.6 0"/>
+    <path d="M0 0L5.61232 3.24037" transform="translate(279.971 61.4784) scale(-1 1) rotate(33)" stroke="white" stroke-width="6.072" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M0 0L6.25591 1.67492" transform="translate(279.971 61.4781) scale(-1 1) rotate(33)" stroke="white" stroke-width="6.072" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M0 0L259.933 69.8703" transform="translate(279.154 62.3199) scale(-1 1) rotate(33)" stroke="white" stroke-width="6.072" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="26.26 15.76 0 18.91 12.6 0"/>
+    <path d="M0 0H6.6128" transform="translate(280.009 61.2991) scale(-1 1) rotate(33)" stroke="white" stroke-width="6.072" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M0 71L267 0" transform="translate(240 1) scale(-1 1) rotate(33)" stroke="white" stroke-width="7" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="26.26 15.76 0 18.91 12.6 0"/>
+    <path d="M0 3L280 0" transform="translate(278 59) scale(-1 1) rotate(33)" stroke="white" stroke-width="7" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0.92 0.92 0.92 0.92"/>
+    <path d="M0 0L236 133" transform="translate(278 63) scale(-1 1) rotate(33)" stroke="white" stroke-width="7" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0.92 0.92 0.92 0.92"/>
+  </mask>
+</defs>
+<style>
+  @keyframes a0_t { from {
+    r: 0; } to {
+    transform: 500; }
+  }
+</style>
+<g mask="url(#common)">
+<circle style="animation: a0_t 0.38s ease-in both" cx="434" cy="0" r="500" fill="white" />
+</g>
+<g mask="url(#blue)">
+<circle style="animation: a0_t 0.35s ease-in both" cx="434" cy="0" r="500" fill="#74E7FA" />
+</g>
+</svg>

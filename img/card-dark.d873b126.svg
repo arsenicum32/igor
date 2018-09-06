@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="263px" height="450px" viewBox="0 0 263 450" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>Rectangle 2</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <radialGradient cx="50%" cy="37.7868152%" fx="50%" fy="37.7868152%" r="171.253071%" gradientTransform="translate(0.500000,0.377868),scale(1.000000,0.583931),rotate(90.000000),scale(1.000000,0.782171),translate(-0.500000,-0.377868)" id="radialGradient-1">
+            <stop stop-color="#00BFFF" offset="0%"></stop>
+            <stop stop-color="#022F90" offset="100%"></stop>
+        </radialGradient>
+    </defs>
+    <g id="1920-copy" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Custom-Preset-10-Copy-14" transform="translate(-1312.000000, -259.000000)" fill="url(#radialGradient-1)">
+            <g id="Group-11" transform="translate(1312.000000, 218.000000)">
+                <g id="Group-8" transform="translate(0.000000, 41.230688)">
+                    <g id="Group-2" transform="translate(0.000000, 0.727316)">
+                        <rect id="Rectangle-2" x="-2.27373675e-13" y="0" width="262.048093" height="448.765408"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="121" height="122" viewBox="0 0 121 122">
+    <style>
+@keyframes a0_t { 0% { transform: translate(61.1841px,63.3646px) scale(1,1) translate(-61.2161px,-62.8446px); } 50% { transform: translate(61.1841px,63.3646px) scale(0,1) translate(-61.2161px,-62.8446px); } 100% { transform: translate(61.1841px,63.3646px) scale(1,1) translate(-61.2161px,-62.8446px); } }
+    </style>
+    <ellipse fill="rgba(255,255,255,0.2)" opacity="1" rx="60.444" ry="60.444" transform="translate(60.412,60.964)"/>
+    <path stroke="#FFF" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.178" d="M91.6288,37.2846C79.0296,37.2846,69.377,33.6601,61.2145,25.6681C53.0531,33.6601,43.4016,37.2846,30.8035,37.2846C30.8035,58.0984,26.5263,87.9131,61.2145,100.021C95.9048,87.9131,91.6288,58.0984,91.6288,37.2846ZM37.5319,61.459L44.4283,54.5145M48.8049,50.1074L61.4041,37.4203M41.3448,72.243L72.1797,41.193M47.7439,81.6248L83.0217,46.1009M56.7623,88.369L83.5854,61.3588" fill="none" transform="translate(61.1841,63.3646) translate(-61.2161,-62.8446)" style="animation: a0_t 0.4s linear both;"/>
+</svg>
